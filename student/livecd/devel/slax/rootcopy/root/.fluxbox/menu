@@ -1,0 +1,3 @@
+[begin] (Menu)
+[exec] (Zakoncz) {halt}
+[end]

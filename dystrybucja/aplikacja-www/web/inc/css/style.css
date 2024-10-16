@@ -1,0 +1,25 @@
+ol>li
+{
+    display: none;
+    list-style-type: square;
+}
+
+#save
+{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+#info
+{
+	display: none;
+	border: 2px solid #c6002f;
+	padding: 10px 20px;
+	background: #ffccd8;
+	position: absolute;
+	bottom: 60px;
+	right: 30px;
+	-moz-border-radius: 2em;
+	-webkit-border-radius: 2em;
+}

@@ -1,0 +1,26 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.10:$
+
+[PLUGINS]
+/usr/lib/mozilla/plugins/libmozsvgdec.so:$
+:$
+:$
+1223504994000:1:5:$
+Scalable Vector Graphics, as handled by RSVG-2.22.3.  Views SVG images.<br><br>This is alpha software.  It will probably behave in many situations, but may also ride your motorcycle, drink all your milk, or use your computer to browse porn.  Comments, feature requests, and patches are welcome.<br><br>See <a href="http://librsvg.sourceforge.net/">http://librsvg.sourceforge.net/</a> for information.<br><br>:$
+Scalable Vector Graphics:$
+5
+0:image/svg+xml:Scalable Vector Graphics:svg,svgz:$
+1:image/svg-xml:Scalable Vector Graphics:svg,svgz:$
+2:image/svg:Scalable Vector Graphics:svg,svgz:$
+3:image/vnd.adobe.svg+xml:Scalable Vector Graphics:svg,svgz:$
+4:text/xml-svg:Scalable Vector Graphics:svg,svgz:$
+/usr/lib/firefox-3.5.1/plugins/libnullplugin.so:$
+:$
+1.0.0.15:$
+1247675212000:1:5:$
+The default plugin handles plugin data for mimetypes and extensions that are not specified and facilitates downloading of new plugins.:$
+Default Plugin:$
+1
+0:*:All types:.*:$

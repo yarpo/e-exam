@@ -1,0 +1,4 @@
+#!/bin/sh
+/usr/sbin/dhcpd
+/usr/share/apache-tomcat/bin/startup.sh
+

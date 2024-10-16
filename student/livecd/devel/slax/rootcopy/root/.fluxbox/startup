@@ -1,0 +1,3 @@
+export LC_ALL=pl_PL
+/usr/bin/firefox egzamin &
+exec /usr/bin/fluxbox
